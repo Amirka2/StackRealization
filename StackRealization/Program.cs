@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections;
+using System.Collections.Generic;
 
 namespace StackRealization
 {
@@ -6,7 +8,8 @@ namespace StackRealization
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            WeirdList<string> l = new WeirdList<string>();
+
         }
     }
 }

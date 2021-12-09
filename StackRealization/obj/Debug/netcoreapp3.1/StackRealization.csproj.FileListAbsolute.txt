@@ -1,0 +1,13 @@
+C:\Users\Amirka\source\repos\StackRealization\StackRealization\obj\Debug\netcoreapp3.1\StackRealization.csproj.AssemblyReference.cache
+C:\Users\Amirka\source\repos\StackRealization\StackRealization\obj\Debug\netcoreapp3.1\StackRealization.AssemblyInfoInputs.cache
+C:\Users\Amirka\source\repos\StackRealization\StackRealization\obj\Debug\netcoreapp3.1\StackRealization.AssemblyInfo.cs
+C:\Users\Amirka\source\repos\StackRealization\StackRealization\obj\Debug\netcoreapp3.1\StackRealization.csproj.CoreCompileInputs.cache
+C:\Users\Amirka\source\repos\StackRealization\StackRealization\bin\Debug\netcoreapp3.1\StackRealization.exe
+C:\Users\Amirka\source\repos\StackRealization\StackRealization\bin\Debug\netcoreapp3.1\StackRealization.deps.json
+C:\Users\Amirka\source\repos\StackRealization\StackRealization\bin\Debug\netcoreapp3.1\StackRealization.runtimeconfig.json
+C:\Users\Amirka\source\repos\StackRealization\StackRealization\bin\Debug\netcoreapp3.1\StackRealization.runtimeconfig.dev.json
+C:\Users\Amirka\source\repos\StackRealization\StackRealization\bin\Debug\netcoreapp3.1\StackRealization.dll
+C:\Users\Amirka\source\repos\StackRealization\StackRealization\bin\Debug\netcoreapp3.1\StackRealization.pdb
+C:\Users\Amirka\source\repos\StackRealization\StackRealization\obj\Debug\netcoreapp3.1\StackRealization.dll
+C:\Users\Amirka\source\repos\StackRealization\StackRealization\obj\Debug\netcoreapp3.1\StackRealization.pdb
+C:\Users\Amirka\source\repos\StackRealization\StackRealization\obj\Debug\netcoreapp3.1\StackRealization.genruntimeconfig.cache
