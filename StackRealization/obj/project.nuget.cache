@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XYc049X2QyrFwW4fEZFP1KzDwbqM51Pq82xYra/d2wzbaXtvLt8Rr33mKkCbCCaF2K44U2bDmCCoHgKQN91wAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Amirka\\source\\repos\\StackRealization\\StackRealization\\StackRealization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Amirka\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
